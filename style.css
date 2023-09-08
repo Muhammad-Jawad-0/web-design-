@@ -1,0 +1,21 @@
+#pages{
+    border: none;
+    text-decoration: none;
+}
+
+.size{
+    text-align: center;
+    font-size: 50px;
+}
+
+.green{
+    color: green;
+}
+
+.red{
+    color: red;
+}
+
+.size span{
+    color: red;
+}
